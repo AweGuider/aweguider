@@ -58,7 +58,7 @@ I'm a passionate game developer, and this is my GitHub profile where I share my 
 
 Feel free to reach out to me for collaboration or inquiries related to game development.
 
-- Email: aweguider@gmail.com
+- Email: alan.safonov@gmail.com
 
 <!--
 - Contact Form: [Contact Me](https://yourwebsite.com/contact)
