@@ -25,7 +25,7 @@ I'm a passionate game developer, and this is my GitHub profile where I share my 
 
 ### Find Me Online
 
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
+- LinkedIn: [Alan Safonov](https://www.linkedin.com/in/alansafonov)
 
 <!--
 - Website: [Your Portfolio Website](https://yourportfolio.com)
@@ -52,7 +52,7 @@ I'm a passionate game developer, and this is my GitHub profile where I share my 
 
 ### Videos and Live Streams
 
-- YouTube: [Temporary YouTubel](https://www.youtube.com/@funguider)
+- YouTube: [FunGuider](https://www.youtube.com/@funguider)
 
 ### Contact Me
 
