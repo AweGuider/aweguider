@@ -1,5 +1,5 @@
 <!-- Game Developer Banner -->
-![Game Developer Banner](https://user-images.githubusercontent.com/73615829/250395751-0fc53ef3-4370-4107-be19-0174f86c84b8.jpg)
+![Game Developer Banner](https://user-images.githubusercontent.com/73615829/250405532-f735ca2d-6108-42f8-b97b-9c2727bf527c.jpg)
 
 ## Hi there! 👋
 
