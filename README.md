@@ -7,10 +7,14 @@ I'm a passionate game developer, and this is my GitHub profile where I share my 
 
 ### Game Projects
 
-- [Project Show-Off](https://github.com/AweGuider/ProjectShow-Off): A brief description of your game project along with a screenshot or GIF.
-- [Project Innovation](https://github.com/AweGuider/Project-Innovation): Another game project with a short description and visual representation.
-- [Project Start Up](https://github.com/AweGuider/CMGT-Year2-ProjectStartUp): Another game project with a short description and visual representation.
-- [Project "Triple Form"](https://github.com/AweGuider/SaxGameGXP/): Another game project with a short description and visual representation.
+- ["Seaside Monster Cup"](https://github.com/AweGuider/ProjectShow-Off)
+  Seaside Monster Cup is a fun racing game where players compete against each other using power ups. Players have a variety of maps to choose from to race in.
+- ["Toy Room Showdown"](https://github.com/AweGuider/Project-Innovation)
+  Toy Room Showdown is a fun, upbeat multiplayer game. Where two teams of both a wind-up toy and a kid have to race against each other. The wind-up toys can use powerups to maneuver their way around the toy room with multiple colorful obstacles standing in their way, and watch out for the other teams kid! They can control traps and toys in order to slow you down. But kids look out, don't forget about your teammate, your opened traps can also be in his disadvantage. So think strategically!
+- ["Scribble Tales"](https://github.com/AweGuider/CMGT-Year2-ProjectStartUp)
+  You and your child can play the game together! First you read and child draws, what he/she remembers, then you switch places. At the end of each story you create an amazing illustration. Stories have different paths so you can explore the same story in different paths
+- ["Triple Form"](https://github.com/AweGuider/SaxGameGXP/)
+  The player is able to change between different forms and so you need to think how to complete different stages as forms are unique and have different abilities.
 
 <!--
 ### Game Design and Artwork
@@ -21,9 +25,11 @@ I'm a passionate game developer, and this is my GitHub profile where I share my 
 
 ### Find Me Online
 
-- Twitter: [@yourusername](https://twitter.com/yourusername)
 - LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
+
+<!--
 - Website: [Your Portfolio Website](https://yourportfolio.com)
+-->
 
 ### Game Development Tools
 
