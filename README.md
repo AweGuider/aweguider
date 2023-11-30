@@ -34,8 +34,11 @@ I'm a passionate game developer, and this is my GitHub profile where I share my 
 ### Game Development Tools
 
 - Unity
+- Unreal Engine
 - GXPEngine
+- libGDX
 - C#
+- C++
 - Java
 
 <!--
