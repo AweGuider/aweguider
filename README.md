@@ -5,7 +5,7 @@
 
 I'm a passionate game developer, and this is my GitHub profile where I share my game projects, artwork, and contributions to the game development community.
 
-### Game Projects
+### Game Projects (Outdated)
 
 - ["Seaside Monster Cup"](https://github.com/AweGuider/ProjectShow-Off)
   Seaside Monster Cup is a fun racing game where players compete against each other using power ups. Players have a variety of maps to choose from to race in.
@@ -26,6 +26,7 @@ I'm a passionate game developer, and this is my GitHub profile where I share my 
 ### Find Me Online
 
 - LinkedIn: [Alan Safonov](https://www.linkedin.com/in/alansafonov)
+- Portfolio: [TheAweDev](https://theawedev.webflow.io/)
 
 <!--
 - Website: [Your Portfolio Website](https://yourportfolio.com)
