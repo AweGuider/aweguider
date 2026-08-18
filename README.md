@@ -1,6 +1,8 @@
 ![Alan Safonov — Game Programmer](Assets/GitHub-Banner.png)
 
-# Alan Safonov | Gameplay & Tools Programmer, AI Workflow Designer & Agent Engineer
+# Alan Safonov
+
+## Gameplay & Tools Programmer, AI Workflow Designer & Agent Engineer
 
 ### Unity 6 / C#, Unreal Engine 5 / C++, Claude Code, Codex
 
