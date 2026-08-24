@@ -144,11 +144,12 @@ live in the repositories, committed next to the code they govern.
 
 **The method is public even where the platform isn't** — committed artifacts, not claims:
 
-Note: These currently only represent AI use with game development. Check my [LinkedIn](https://www.linkedin.com/in/alansafonov) for more AI related posts.
-
 - [`Parallel-Worktree-Contracts.md`](https://github.com/AweGuider/GMTK-2026/tree/dev/Docs/Parallel-Worktree-Contracts.md) — ownership contracts that kept 6 people and their agents across ~20 branches from damaging serialized Unity assets
 - [`Engineering-Decisions.md`](https://github.com/AweGuider/GMTK-2026/tree/dev/Docs/Engineering-Decisions.md) — decision record maintained during a 4-day jam
+- A Python/Tkinter desktop utility, publicly released — spec, phased roadmap with exit gates, release notes, third-party license notices, and a documented readiness review before publication
 <!-- - [`AGENTS.md`](https://github.com/AweGuider/VR-Contact-Hands/blob/main/AGENTS.md) · [`CLAUDE.md`](https://github.com/AweGuider/VR-Contact-Hands/blob/main/CLAUDE.md) — per-repository agent instruction files, scoped to each repo's risk -->
+
+<sub>More AI-related posts on [LinkedIn](https://www.linkedin.com/in/alansafonov).</sub>
 
 `Claude Code` `Codex` `MCP` `Python` `PowerShell` `TypeScript` `Local embeddings + vector store`
 
