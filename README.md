@@ -50,7 +50,7 @@ documented stabilization pass.
 
 ---
 
-### 🧰 [AweDev Level Sequence — Unity package](https://github.com/AweGuider/com.awedev.level-sequence)
+### 🧰 [AweDev Level Sequence — Unity package](https://github.com/AweGuider/AweDev-Level-Sequence)
 <!-- PLACEHOLDER: editor screenshot — validation errors in inspector -->
 <!-- <img src="TODO: screenshot URL" width="640" alt="Level Sequence editor"> -->
 
@@ -66,7 +66,7 @@ then consumed by my own game as a tagged Git dependency.
 
 `C#` `Unity` `UPM` `Editor tooling`
 
-#### ▸ [Repo](https://github.com/AweGuider/com.awedev.level-sequence) · [Docs](https://github.com/AweGuider/com.awedev.level-sequence/blob/main/Documentation~/level-sequence.md) · Used in production by [TagDown](https://github.com/AweGuider/GMTK-2026)
+#### ▸ [Repo](https://github.com/AweGuider/AweDev-Level-Sequence) · [Docs](https://github.com/AweGuider/AweDev-Level-Sequence/blob/main/Documentation~/level-sequence.md) · Used in production by [TagDown](https://github.com/AweGuider/GMTK-2026)
 
 ---
 
@@ -108,7 +108,7 @@ the *static* half of the same problem.
 
 ---
 
-### 🏂 [Snowboard Mayhem — solo Unreal project, two editions](https://github.com/AweGuider/MinorSkilled)
+### 🏂 [Snowboard Mayhem — solo Unreal project, two editions](https://github.com/AweGuider/SnowboardMayhem)
 
  <a href="https://youtu.be/_D_ThHoAFRc"><img src="https://img.youtube.com/vi/_D_ThHoAFRc/hqdefault.jpg" width="45%"></a>
  <a href="https://youtu.be/SMM9qwed8VA"><img src="https://img.youtube.com/vi/SMM9qwed8VA/hqdefault.jpg" width="45%"></a>
@@ -125,7 +125,7 @@ months later and rebuilt around an endlessly generating landscape.
 
 `Unreal Engine` `C++` `Blueprints` `Procedural generation` `Physics`
 
-#### ▸ [Repo](https://github.com/AweGuider/MinorSkilled) · [Original](https://youtu.be/_D_ThHoAFRc) · [Extended Edition](https://youtu.be/SMM9qwed8VA)
+#### ▸ [Repo](https://github.com/AweGuider/SnowboardMayhem) · [Original](https://youtu.be/_D_ThHoAFRc) · [Extended Edition](https://youtu.be/SMM9qwed8VA)
 
 ---
 
@@ -211,7 +211,7 @@ to a byte-identical prior state. Offline retrieval over a private Markdown corpu
 <a href="https://youtu.be/fO1U5-CLFus"><img src="https://img.youtube.com/vi/fO1U5-CLFus/hqdefault.jpg" width="100%"></a>
 <b>Toy Room Showdown</b> · Unity · 7-person team · 2023<br>
 <sub>Sole programmer. Asymmetric party game; Photon online multiplayer, PC + mobile builds, accelerometer input, original soundtrack.<br>
-▸ <a href="https://youtu.be/fO1U5-CLFus">Watch</a> · <a href="https://github.com/AweGuider/Project-Innovation">Repo</a></sub>
+▸ <a href="https://youtu.be/fO1U5-CLFus">Watch</a> · <a href="https://github.com/AweGuider/ToyRoomShowdown">Repo</a></sub>
 </td>
 </tr>
 <tr>
@@ -225,14 +225,14 @@ to a byte-identical prior state. Offline retrieval over a private Markdown corpu
 <a href="https://youtu.be/ne49ZGRWPuo"><img src="https://img.youtube.com/vi/ne49ZGRWPuo/hqdefault.jpg" width="100%"></a>
 <b>Scribble Tales</b> · Unity · 2022<br>
 <sub>Co-op read-and-draw story game for a parent and child. Runtime text-file story loading, audio system, branching story paths.<br>
-▸ <a href="https://youtu.be/ne49ZGRWPuo">Watch</a> · <a href="https://github.com/AweGuider/CMGT-Year2-ProjectStartUp">Repo</a></sub>
+▸ <a href="https://youtu.be/ne49ZGRWPuo">Watch</a> · <a href="https://github.com/AweGuider/ScribbleTales">Repo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <b>Seaside Monster Cup</b> · Unity · 7-person team · 2023<br>
 <sub>Sole programmer. Kart racing with power-ups; car physics, local 4-player split-screen, Cinemachine and post-processing.<br>
-<!-- TODO: video link if one exists --> <a href="https://github.com/AweGuider/ProjectShow-Off">Repo</a></sub>
+<!-- TODO: video link if one exists --> <a href="https://github.com/AweGuider/SeasideMonsterCup">Repo</a></sub>
 <br><br>
 </td>
 </tr>
