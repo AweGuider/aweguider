@@ -1,4 +1,4 @@
-![Alan Safonov — Game Programmer](Assets/GitHub-Banner.png)
+![Alan Safonov — Tools & XR Engineer](Assets/GitHub-Banner-v2.1.png)
 
 # Alan Safonov
 
